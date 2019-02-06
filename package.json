@@ -1,0 +1,14 @@
+{
+  "name": "ethereumjs-abi-decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "encoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ethereumjs-abi": "^0.6.6"
+  }
+}
